@@ -1,0 +1,16 @@
+
+
+.apppen-flower{
+    width: 100px;
+    height: 100px;
+}
+#button-wrapper{
+    margin-top: 10vh;
+}
+
+/* footer */
+ul{
+ display: flex;
+ justify-content: space-between;
+ list-style: none;
+}
