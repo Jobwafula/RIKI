@@ -2,8 +2,12 @@ apppen-flower{
     width: 100px;
     height: 100px;
 }
+
+/* button apply && how it works */
 #button-wrapper{
     margin-top: 10vh;
+    display: flex;
+    gap: 20px;
 }
 
 /* footer */
