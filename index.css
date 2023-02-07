@@ -1,6 +1,4 @@
-
-
-.apppen-flower{
+apppen-flower{
     width: 100px;
     height: 100px;
 }
@@ -13,4 +11,3 @@ ul{
  display: flex;
  justify-content: space-between;
  list-style: none;
-}
