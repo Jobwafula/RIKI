@@ -1,6 +1,8 @@
-apppen-flower{
-    width: 100px;
-    height: 100px;
+.appen-flower{
+    
+    background-color: white;
+    
+    
 }
 
 /* button apply && how it works */
@@ -16,4 +18,19 @@ ul{
  justify-content: space-between;
  list-style: none;
 
+}
+
+/* custom jumbotron background */
+.custom-jumbotron{
+    background-color: white;
+}
+
+/* self div */
+
+.self-div-custom{
+    background-color: #134b5f;
+}
+
+.self-div{
+    display: flex;
 }
