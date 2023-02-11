@@ -5,10 +5,14 @@
 #apply:hover{
     
     background-color: white;
+    color: black;
 }
 
 #apply a {
     text-decoration: none;
+    color: white;
+}
+#apply a:hover{
     color: white;
 }
 
@@ -16,3 +20,11 @@
     text-decoration: none;
     color: black;
 }
+#how-it-works :hover{
+    background-color: black;
+    color: white;
+
+}
+
+
+

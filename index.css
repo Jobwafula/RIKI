@@ -36,3 +36,31 @@ ul{
     background-color: #134b5f;
     
 }
+.success-container{
+     background-color: whitesmoke; 
+    position: relative;
+}
+#success-container-child{
+    background-color: white;
+    margin-left: 50px;
+    position: absolute;
+    z-index: 1;
+    margin-top: 0px;
+    width: 70%;
+    height: 70%;
+    padding: 10px;
+    
+}
+
+
+/* image */
+#img{
+    
+    /* margin-left: 50%; */
+    height: 400px;
+    float: right;
+
+    /* z-index: -1;  */
+}
+
+
