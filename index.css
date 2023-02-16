@@ -62,5 +62,20 @@ ul{
 
     /* z-index: -1;  */
 }
+ /* footer */
+footer{
+    background-color: black;
+    display: flex;
+}
+.couresel{
+    background-color: #134b5f;
+}
+
+/* wrapper-c */
+#wrapper-c{
+    display: flex;
+    justify-content: space-between;
+}
+
 
 
